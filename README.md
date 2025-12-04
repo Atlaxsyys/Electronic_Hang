@@ -1,3 +1,6 @@
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # Бесконтактный электронный ханг
 
 Проект интерактивного музыкального инструмента, имитирующего игру на ханге с помощью ультразвуковых датчиков расстояния и генерации звука на ПК с использованием Python.
